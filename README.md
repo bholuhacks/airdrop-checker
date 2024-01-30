@@ -1,6 +1,6 @@
 ## Airdrop Checker
 
-Sample script to quickly check whether you're eligible for an airdrop across a bunch of wallets
+Sample scripts to quickly check whether you're eligible for an airdrop across a bunch of wallets
 
 ## Usage
 
